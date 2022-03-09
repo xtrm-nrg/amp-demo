@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.0",
+  "appInfo": {
+    "name": "RR-Demo",
+    "description": "",
+    "version": "zfyn5zk3",
+    "id": "cl0jqbd3v41740701s6ui9t4hl6",
+    "url": "https://app.amplication.com/cl0jqbd3v41740701s6ui9t4hl6",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl0jqbd3v41740701s6ui9t4hl6",
+      "authProvider": "Jwt"
+    }
+  }
+}
